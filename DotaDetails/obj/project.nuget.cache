@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Tkr3wMw3GG5+swz79epnvcjiF/1uABmhH83G5PVEQHPu3rHJggye+4CjfF/TY5iNX+bnDE0EMdfJEfXKAeFDfg==",
+  "dgSpecHash": "RU7mzdn+80x9KjJP4mDXtq1bhV6zTBS8x2z19zIigc/bubgn13gA5SbX4fuWTjXCyX/MWnov9mBAtrrlJsR8YQ==",
   "success": true,
   "projectFilePath": "C:\\Thomas More\\2APPAI\\DevOps\\DotaDetails\\DotaDetails\\DotaDetails.csproj",
   "expectedPackageFiles": [
@@ -13,8 +13,8 @@
     "C:\\Users\\arnov\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
     "C:\\Users\\arnov\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\arnov\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.11\\microsoft.netcore.app.runtime.win-x64.5.0.11.nupkg.sha512",
-    "C:\\Users\\arnov\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.11.nupkg.sha512",
-    "C:\\Users\\arnov\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.11\\microsoft.aspnetcore.app.runtime.win-x64.5.0.11.nupkg.sha512"
+    "C:\\Users\\arnov\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.11\\microsoft.aspnetcore.app.runtime.win-x64.5.0.11.nupkg.sha512",
+    "C:\\Users\\arnov\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.11.nupkg.sha512"
   ],
   "logs": []
 }
